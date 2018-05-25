@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration
+    id="Configuration"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://xml.cinnober.com/xsd/cwf-9.2.xsd">
+
+    <Version major="9" minor="2"/>
+
+	<inherits name="com.cinnober.ciguan.conf.Application"/>
+
+</Configuration>
